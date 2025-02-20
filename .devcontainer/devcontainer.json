@@ -1,0 +1,13 @@
+{
+  "name": "Anchor Token Dev",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {},
+  "extensions": [
+    "rust-lang.rust-analyzer",
+    "ms-vscode.vscode-typescript-next"
+  ],
+  "postCreateCommand": "anchor --version && solana --version",
+  "remoteUser": "vscode"
+}
