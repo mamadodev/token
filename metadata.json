@@ -1,0 +1,13 @@
+{
+  "name": "MyToken",
+  "symbol": "MTK",
+  "description": "This is my awesome token!",
+  "image": "https://raw.githubusercontent.com/your-username/your-repo/main/logo.png",
+  "external_url": "https://github.com/your-username/your-repo",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility"
+    }
+  ]
+}
